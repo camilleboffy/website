@@ -1,0 +1,22 @@
+.banner {
+	background-image: url("../../images/mode.jpeg");
+	color: #625e5e;
+	padding:100px 10px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	padding-left: 15px;
+}
+
+.banner h2 {
+	font-size:30px;
+	font-weight: lighter;
+	padding-left: 30px;
+}
+
+.banner .btn {
+	text-align: center;
+}

@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Libre+Baskerville&display=swap"); 
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap'); 
+
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+html {
+	background-color: #f7f5f1;
+}
+
+h1,h2,h4 {
+	font-family: Libre, sans-serif;
+	font-weight: bold;
+	color:#625e5e;
+}
+
+h3 {
+	font-family: Satisfy, cursive;
+	color: #625e5e;
+	text-align: center;
+	font-size: 50px;
+}
+
+h4 {
+	font-family: Baskerville, sans-serif;
+	font-weight: lighter;
+	color:#625e5e;
+	font-size: 50px;
+}
+a {
+	text-decoration: none; 
+
+}
+
+
